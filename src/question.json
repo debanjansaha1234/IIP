@@ -1,0 +1,39 @@
+[
+    {
+        "id":"1",
+        "ques":"Are you restless ?"
+    },
+    {
+        "id":"2",
+        "ques":"Are are facing extreme mood changes?"
+    },
+    {
+        "id":"3",
+        "ques":"Are you feeling more sleepy than before?"
+    },
+    {
+        "id":"4",
+        "ques":"Are you anxious?"
+    },
+    {
+        "id":"5",
+        "ques":"Are you loosing interest in all the activities?"
+    },
+    {
+        "id":"6",
+        "ques":"Are you feeling lonely?"
+    },
+    {
+        "id":"7",
+        "ques":"Are you getting nighmares?"
+    },
+    {
+        "id":"8",
+        "ques":"Are you halluncinating quite often?"
+    },
+    {
+        "id":"9",
+        "ques":"Are you facing from memory loss ?"
+    }
+
+]
